@@ -1,0 +1,61 @@
+body{  background-image: url('/home/dci-pc-ubuntu47/Desktop/image/w.jpg');
+  
+   
+  
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+ header, footer{
+   
+    background-color:black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+ 
+    
+ }
+ img{
+    border: dotted 2px white;
+ }
+ 
+  
+ h1{
+ 
+    margin-bottom: 0;
+    padding-left: 350px;
+ }
+ h1, p{
+    margin-top: 0;
+    
+ }
+ 
+ 
+ 
+ .orange{
+
+    color:#ed7000;
+ }
+  p{
+    color:white;
+ }
+ div{
+ 
+    background: rgb(77, 9, 9);
+    padding: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+    text-align: justify;
+ }
+ span{
+    color: gray;
+    font-style: italic;
+ }
+ footer{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+ .fett
+ {
+    font-weight: 800;
+ }
